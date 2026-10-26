@@ -1,5 +1,7 @@
 # CS 411 Lab 1 The Render Deadline starter
 
+Starter template: https://github.com/cwillpinto/cs411-spring2027-lab01-the-render-deadline
+
 The full Spring 2027 assignment is `Lab_01_The_Render_Deadline.md`. This Rust starter supplies the sequential prime-sum baseline and the benchmark and plot runners. Complete only the two TODO functions in `src/lib.rs`; the public tests check boundary limits, non-even chunks, Amdahl values, and a bounded fraction estimate.
 
 From the repository root, with a current Rust toolchain:
@@ -24,7 +26,7 @@ If Blackboard links a template repository, choose **Use this template**, create 
 For a direct clone, first create an empty repository under your account. Replace the placeholders below with the starter link supplied in Blackboard and your own empty repository URL:
 
 ```sh
-git clone <instructor-starter-url>
+git clone https://github.com/cwillpinto/cs411-spring2027-lab01-the-render-deadline
 cd <cloned-directory>
 git remote rename origin upstream
 git remote add origin <your-empty-repository-url>

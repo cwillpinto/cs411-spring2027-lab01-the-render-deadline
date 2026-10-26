@@ -6,6 +6,8 @@
 **Due:** January 17, 2027  
 **Value:** 100 points
 
+**Starter repository:** [Open the Spring 2027 starter](https://github.com/cwillpinto/cs411-spring2027-lab01-the-render-deadline)
+
 ## The mission
 
 The render queue is growing and the deadline is not moving. Adding workers may reduce the parallel portion of the job, but setup, coordination, and final assembly still happen in sequence. Your task is to determine what more workers can actually buy—and where the speedup stops.
